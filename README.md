@@ -1,5 +1,5 @@
 # Local-demo
-this is my demo respository
+This is my Resume Repositery
 <br>
 i'm learning git
 <br>
